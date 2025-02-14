@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17844837&assignment_repo_type=AssignmentRepo)
-# seng438-a1
+# Lab Report - Group 16
 
-Review [the assignment 01 guideline](seng438-a1.md) 
+ 1. Lab Report is available in file seng438-a1-16.md
+ 2. Bug tracking reports can be found in folder "Bug Track Reports"
